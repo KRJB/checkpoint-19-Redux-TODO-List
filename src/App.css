@@ -1,0 +1,11 @@
+#glob{
+    display: flex;
+    flex-direction: column;
+align-items: center;
+justify-content: center;
+margin: 50px 10% 0 10%;
+padding: 20px 0;
+box-shadow: 3px 3px 2px 3px #acacac;
+border-radius: 10px;
+background-color: #f3f3f3;
+}
